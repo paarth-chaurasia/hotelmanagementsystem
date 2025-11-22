@@ -1,4 +1,4 @@
-# 🏨 HotelEase
+# 🏨 HotelManagementSystem
 
 A simple hotel room management program made using Python.  
 It lets you check guests in, check them out, and see which rooms are free or occupied.  
